@@ -1,0 +1,185 @@
+Total	Formula	$C$7	Sr#
+Total	Formula	$D$7	Names
+Total	Formula	$E$7	Designation
+Total	Formula	$F$7	='Imp Tables'!$J$25
+Total	Formula	$I$7	='Imp Tables'!$J$26
+Total	Formula	$L$7	='Imp Tables'!$J$27
+Total	Formula	$O$7	='Imp Tables'!$J$28
+Total	Formula	$R$7	='Imp Tables'!$J$29
+Total	Formula	$U$7	='Imp Tables'!$J$30
+Total	Formula	$X$7	='Imp Tables'!$J$31
+Total	Formula	$Z$7	Daily Wages
+Total	Formula	$AA$7	Total Weekly Wages
+Total	Formula	$F$8	='Imp Tables'!$K$25
+Total	Formula	$H$8	Daily Wages
+Total	Formula	$I$8	='Imp Tables'!$K$26
+Total	Formula	$K$8	Daily Wages
+Total	Formula	$L$8	='Imp Tables'!$K$27
+Total	Formula	$N$8	Daily Wages
+Total	Formula	$O$8	='Imp Tables'!$K$28
+Total	Formula	$Q$8	Daily Wages
+Total	Formula	$R$8	='Imp Tables'!$K$29
+Total	Formula	$T$8	Daily Wages
+Total	Formula	$U$8	='Imp Tables'!$K$30
+Total	Formula	$W$8	Daily Wages
+Total	Formula	$X$8	='Imp Tables'!$K$31
+Total	Formula	$F$9	Time In
+Total	Formula	$G$9	=IF($F$8<>" ","Time Out"," ")
+Total	Formula	$H$9	Rupee
+Total	Formula	$I$9	=IF($I$8<>" ","Time In"," ")
+Total	Formula	$J$9	=IF($I$8<>" ","Time Out"," ")
+Total	Formula	$K$9	Rupee
+Total	Formula	$L$9	=IF($L$8<>" ","Time In"," ")
+Total	Formula	$M$9	=IF($L$8<>" ","Time Out"," ")
+Total	Formula	$N$9	Rupee
+Total	Formula	$O$9	=IF($O$8<>" ","Time In"," ")
+Total	Formula	$P$9	=IF($O$8<>" ","Time Out"," ")
+Total	Formula	$Q$9	Rupee
+Total	Formula	$R$9	=IF($R$8<>" ","Time In"," ")
+Total	Formula	$S$9	=IF($R$8<>" ","Time Out"," ")
+Total	Formula	$T$9	Rupee
+Total	Formula	$U$9	=IF($U$8<>" ","Time In"," ")
+Total	Formula	$V$9	=IF($U$8<>" ","Time Out"," ")
+Total	Formula	$W$9	Rupee
+Total	Formula	$X$9	=IF(X8<>" ","Time In"," ")
+Total	Formula	$Y$9	=IF(X8<>" ","Time Out"," ")
+Total	Formula	$AA$9	Rupee
+Total	Formula	$C$10	1
+Total	Formula	$D$10	=IF('Wages Calculator'!C14=0," ",'Wages Calculator'!C14)
+Total	Formula	$E$10	Labour
+Total	Formula	$I$10	0.708333333333333
+Total	Formula	$J$10	0
+Total	Formula	$K$10	1500
+Total	Formula	$L$10	0.708333333333333
+Total	Formula	$M$10	0.854166666666667
+Total	Formula	$N$10	875
+Total	Formula	$AA$10	=IF(Z10+W10+T10+Q10+N10+K10++H10=0," ",Z10+W10+T10+Q10+N10+K10++H10)
+Total	Formula	$C$11	2
+Total	Formula	$D$11	=IF('Wages Calculator'!C15=0," ",'Wages Calculator'!C15)
+Total	Formula	$E$11	Labour
+Total	Formula	$F$11	0.333333333333333
+Total	Formula	$G$11	0.708333333333333
+Total	Formula	$H$11	1500
+Total	Formula	$I$11	0.333333333333333
+Total	Formula	$J$11	0
+Total	Formula	$K$11	3000
+Total	Formula	$L$11	0.333333333333333
+Total	Formula	$M$11	0.854166666666667
+Total	Formula	$N$11	2375
+Total	Formula	$O$11	0.333333333333333
+Total	Formula	$P$11	0.708333333333333
+Total	Formula	$Q$11	1500
+Total	Formula	$R$11	0.333333333333333
+Total	Formula	$S$11	0.708333333333333
+Total	Formula	$T$11	1500
+Total	Formula	$U$11	0.333333333333333
+Total	Formula	$V$11	0.708333333333333
+Total	Formula	$W$11	1500
+Total	Formula	$X$11	0.333333333333333
+Total	Formula	$Y$11	0.708333333333333
+Total	Formula	$Z$11	1500
+Total	Formula	$AA$11	=IF(Z11+W11+T11+Q11+N11+K11++H11=0," ",Z11+W11+T11+Q11+N11+K11++H11)
+Total	Formula	$D$12	=IF('Wages Calculator'!C16=0," ",'Wages Calculator'!C16)
+Total	Formula	$AA$12	=IF(Z12+W12+T12+Q12+N12+K12++H12=0," ",Z12+W12+T12+Q12+N12+K12++H12)
+Total	Formula	$C$13	3
+Total	Formula	$D$13	=IF('Wages Calculator'!C17=0," ",'Wages Calculator'!C17)
+Total	Formula	$E$13	Labour
+Total	Formula	$F$13	0.333333333333333
+Total	Formula	$G$13	0.708333333333333
+Total	Formula	$H$13	1500
+Total	Formula	$I$13	0.333333333333333
+Total	Formula	$J$13	0.708333333333333
+Total	Formula	$K$13	1500
+Total	Formula	$L$13	0.333333333333333
+Total	Formula	$M$13	0.708333333333333
+Total	Formula	$N$13	1500
+Total	Formula	$O$13	0.333333333333333
+Total	Formula	$P$13	0.708333333333333
+Total	Formula	$Q$13	1500
+Total	Formula	$R$13	0.333333333333333
+Total	Formula	$S$13	0.708333333333333
+Total	Formula	$T$13	1500
+Total	Formula	$U$13	0.333333333333333
+Total	Formula	$V$13	0.708333333333333
+Total	Formula	$W$13	1500
+Total	Formula	$X$13	0.333333333333333
+Total	Formula	$Y$13	0.75
+Total	Formula	$Z$13	1750
+Total	Formula	$AA$13	=IF(Z13+W13+T13+Q13+N13+K13++H13=0," ",Z13+W13+T13+Q13+N13+K13++H13)
+Total	Formula	$C$14	4
+Total	Formula	$D$14	=IF('Wages Calculator'!C18=0," ",'Wages Calculator'!C18)
+Total	Formula	$E$14	Labour
+Total	Formula	$F$14	0.333333333333333
+Total	Formula	$G$14	0.708333333333333
+Total	Formula	$H$14	1500
+Total	Formula	$I$14	0.333333333333333
+Total	Formula	$J$14	0.708333333333333
+Total	Formula	$K$14	1500
+Total	Formula	$L$14	0.333333333333333
+Total	Formula	$M$14	0.708333333333333
+Total	Formula	$N$14	1500
+Total	Formula	$O$14	0.333333333333333
+Total	Formula	$P$14	0.708333333333333
+Total	Formula	$Q$14	1500
+Total	Formula	$R$14	0.333333333333333
+Total	Formula	$S$14	0.708333333333333
+Total	Formula	$T$14	1500
+Total	Formula	$U$14	0.333333333333333
+Total	Formula	$V$14	0.708333333333333
+Total	Formula	$W$14	1500
+Total	Formula	$AA$14	=IF(Z14+W14+T14+Q14+N14+K14++H14=0," ",Z14+W14+T14+Q14+N14+K14++H14)
+Total	Formula	$C$15	5
+Total	Formula	$D$15	=IF('Wages Calculator'!C19=0," ",'Wages Calculator'!C19)
+Total	Formula	$E$15	Mason
+Total	Formula	$F$15	0.333333333333333
+Total	Formula	$G$15	0.708333333333333
+Total	Formula	$H$15	2500
+Total	Formula	$I$15	0.333333333333333
+Total	Formula	$J$15	0.708333333333333
+Total	Formula	$K$15	2500
+Total	Formula	$L$15	0.333333333333333
+Total	Formula	$M$15	0.708333333333333
+Total	Formula	$N$15	2500
+Total	Formula	$O$15	0.333333333333333
+Total	Formula	$P$15	0.708333333333333
+Total	Formula	$Q$15	2500
+Total	Formula	$U$15	0.333333333333333
+Total	Formula	$V$15	0.708333333333333
+Total	Formula	$W$15	2500
+Total	Formula	$AA$15	=IF(Z15+W15+T15+Q15+N15+K15++H15=0," ",Z15+W15+T15+Q15+N15+K15++H15)
+Total	Formula	$D$16	=IF('Wages Calculator'!C20=0," ",'Wages Calculator'!C20)
+Total	Formula	$AA$16	=IF(Z16+W16+T16+Q16+N16+K16++H16=0," ",Z16+W16+T16+Q16+N16+K16++H16)
+Total	Formula	$D$17	=IF('Wages Calculator'!C21=0," ",'Wages Calculator'!C21)
+Total	Formula	$AA$17	=IF(Z17+W17+T17+Q17+N17+K17++H17=0," ",Z17+W17+T17+Q17+N17+K17++H17)
+Total	Formula	$D$18	=IF('Wages Calculator'!C22=0," ",'Wages Calculator'!C22)
+Total	Formula	$AA$18	=IF(Z18+W18+T18+Q18+N18+K18++H18=0," ",Z18+W18+T18+Q18+N18+K18++H18)
+Total	Formula	$D$19	=IF('Wages Calculator'!C23=0," ",'Wages Calculator'!C23)
+Total	Formula	$AA$19	=IF(Z19+W19+T19+Q19+N19+K19++H19=0," ",Z19+W19+T19+Q19+N19+K19++H19)
+Total	Formula	$D$20	=IF('Wages Calculator'!C24=0," ",'Wages Calculator'!C24)
+Total	Formula	$AA$20	=IF(Z20+W20+T20+Q20+N20+K20++H20=0," ",Z20+W20+T20+Q20+N20+K20++H20)
+Total	Formula	$C$21	6
+Total	Formula	$D$21	=IF('Wages Calculator'!C25=0," ",'Wages Calculator'!C25)
+Total	Formula	$E$21	Labour
+Total	Formula	$X$21	0.333333333333333
+Total	Formula	$Y$21	0.791666666666667
+Total	Formula	$Z$21	2000
+Total	Formula	$AA$21	=IF(Z21+W21+T21+Q21+N21+K21++H21=0," ",Z21+W21+T21+Q21+N21+K21++H21)
+Total	Formula	$C$22	7
+Total	Formula	$D$22	=IF('Wages Calculator'!C26=0," ",'Wages Calculator'!C26)
+Total	Formula	$E$22	Labour
+Total	Formula	$L$22	0.666666666666667
+Total	Formula	$M$22	0.958333333333333
+Total	Formula	$N$22	1500
+Total	Formula	$AA$22	=IF(Z22+W22+T22+Q22+N22+K22++H22=0," ",Z22+W22+T22+Q22+N22+K22++H22)
+Total	Formula	$D$23	=IF('Wages Calculator'!C27=0," ",'Wages Calculator'!C27)
+Total	Formula	$AA$23	=IF(Z23+W23+T23+Q23+N23+K23++H23=0," ",Z23+W23+T23+Q23+N23+K23++H23)
+Total	Formula	$D$24	=IF('Wages Calculator'!C28=0," ",'Wages Calculator'!C28)
+Total	Formula	$AA$24	=IF(Z24+W24+T24+Q24+N24+K24++H24=0," ",Z24+W24+T24+Q24+N24+K24++H24)
+Total	Formula	$D$25	=IF('Wages Calculator'!C29=0," ",'Wages Calculator'!C29)
+Total	Formula	$AA$25	=IF(Z25+W25+T25+Q25+N25+K25++H25=0," ",Z25+W25+T25+Q25+N25+K25++H25)
+Total	Formula	$D$26	=IF('Wages Calculator'!C30=0," ",'Wages Calculator'!C30)
+Total	Formula	$AA$26	=IF(Z26+W26+T26+Q26+N26+K26++H26=0," ",Z26+W26+T26+Q26+N26+K26++H26)
+Total	Formula	$D$27	=IF('Wages Calculator'!C31=0," ",'Wages Calculator'!C31)
+Total	Formula	$AA$27	=IF(Z27+W27+T27+Q27+N27+K27++H27=0," ",Z27+W27+T27+Q27+N27+K27++H27)
+Total	Formula	$C$28	="Grand Total"&"     "
+Total	Formula	$AA$28	=SUM(AA10:AA27)

@@ -4,9 +4,14 @@ import matplotlib.pyplot as plt
 import math as ma
 import xlwings as xw
 import time
+from pathlib import Path
+
+
+
 def wages_write():
     # Open the existing workbook
-    workbook_path = r"F:\Daily Wages Calculator\Daily Wages Calculator.xlsm"
+    current_folder = Path(__file__).resolve().parent
+    workbook_path = current_folder / "Daily Wages Calculator.xlsm"
     wb = xw.Book(workbook_path)
     sheet = wb.sheets[0]
     sheet1 = wb.sheets[2]

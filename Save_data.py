@@ -1,7 +1,9 @@
 import xlwings as xw
 from tkinter import Tk, filedialog
+from pathlib import Path
 
-workbook_path = r"F:\Daily Wages Calculator\Daily Wages Calculator.xlsm"
+current_folder = Path(__file__).resolve().parent
+workbook_path = current_folder / "Daily Wages Calculator.xlsm"
 
 # Ranges
 Main_sheet = ["B12:AB33"]
@@ -18,7 +20,7 @@ def save_sheet1_data():
     sheet3 = wb.sheets[2]
     
     file_path = filedialog.asksaveasfilename(
-        initialdir=r"F:\Daily Wages Calculator",
+        initialdir=str(current_folder),
         defaultextension=".txt",
         filetypes=[("Text Files", "*.txt")],
         title="Save Excel Data As Text File"
@@ -58,7 +60,7 @@ def load_sheet1_data():
 
 
     txt_file_path = filedialog.askopenfilename(
-        initialdir=r"F:\Daily Wages Calculator",
+        initialdir=str(current_folder),
         title="Select Text File to Load",
         filetypes=[("Text Files", "*.txt")]
     )
@@ -99,7 +101,7 @@ def save_sheet2_data():
     sheet3 = wb.sheets[2]
     
     file_path = filedialog.asksaveasfilename(
-        initialdir=r"F:\Daily Wages Calculator",
+        initialdir=str(current_folder),
         defaultextension=".txt",
         filetypes=[("Text Files", "*.txt")],
         title="Save Excel Data As Text File"
@@ -138,7 +140,7 @@ def load_sheet2_data():
 
 
     txt_file_path = filedialog.askopenfilename(
-        initialdir=r"F:\Daily Wages Calculator",
+        initialdir=str(current_folder),
         title="Select Text File to Load",
         filetypes=[("Text Files", "*.txt")]
     )

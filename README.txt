@@ -99,3 +99,13 @@ After enabling the add-in, you should see an "xlwings" option in the top ribbon 
 Now everything is set up.
 
 Open the Excel file and enjoy.
+
+Bonus: If you want to modify or change coding according to your requirement 
+Download and install Visual Studio code from https://code.visualstudio.com/download
+download required extensions like python, python debugger etc and enjoy
+
+Author: Engr Ahmar Shahzad
+UET Lahore main branch graduate 
+Email: ahmarshah01@gmail.com
+Email: ahmarshah136@gmail.com
+Ph# +92 3324402178

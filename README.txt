@@ -1,6 +1,7 @@
 # Excel Python Setup Guide
 
 Follow these steps to set up Python, install the required packages, and enable the Excel add-ins.
+Note: Download and extract, always always always keep all these files in same directory to keep them working else you need to define location of each file to all files.
 
 ## 1. Download And Install Python
 

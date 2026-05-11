@@ -6,7 +6,7 @@ current_folder = Path(__file__).resolve().parent
 workbook_path = current_folder / "Daily Wages Calculator.xlsm"
 
 # Ranges
-Main_sheet = ["B12:AB33"]
+Main_sheet = ["B8:AB33"]
 Total_wages = ["C7:AA29"]
 
 # ---------------------------------------------------
